@@ -70,7 +70,7 @@
     "jquery.cookie": "^1.4.1",
     "jr-qrcode": "^1.0.7",
     "material-design-icons-iconfont": "^3.0.3",
-    "materialize-css": "^0.98.1",
+    "materialize-css": "^0.99.0",
     "mousetrap": "^1.6.0",
     "ptsans-npm-webfont": "^0.0.4",
     "roboto-fontface": "^0.7.0",
